@@ -1,0 +1,345 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url(https://z4a.net/images/2023/04/02/landscape-mountains-forest-watch-tower-minimalist-minimalism-y712.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-clip: padding-box;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  min-width: 1000px;
+}
+.bg1 {
+  margin: 0;
+  height: 100vh;
+  background-image: url(https://z4a.net/images/2023/04/09/minimalist-landscape-nature-sunrise-river-mountains-trees-a1962.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-clip: padding-box;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  min-width: 1000px;
+}
+.bg2 {
+  margin: 0;
+  height: 100vh;
+  background-image: url(https://z4a.net/images/2023/04/09/3840px.png);
+  background-repeat: no-repeat;
+  background-clip: padding-box;
+  background-size: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  min-width: 1000px;
+}
+.bg3 {
+  margin: 0;
+  height: 100vh;
+  background-image: url(https://z4a.net/images/2023/04/09/da25b40dd17f47051e6b495c600d55ec.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-clip: padding-box;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  min-width: 1000px;
+}
+.arrow {
+  border: solid rgb(188, 188, 188);
+  border-width: 0 8px 8px 0;
+  display: inline-block;
+  padding: 20px;
+}
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+.head {
+  position: fixed;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 24px 26px;
+  text-decoration: none;
+}
+li a:hover:not(active) {
+  color: #6ccaee;
+}
+
+.ziti1 {
+  font-size: 30px;
+}
+
+.ziti2 {
+  font-size: 20px;
+}
+.ziti3 {
+  font-size: 20px;
+  color: black;
+}
+.flex {
+  display: flex;
+}
+.baise {
+  background-color: white;
+}
+.yinying {
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+    rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+}
+.column {
+  flex-direction: column;
+}
+.row {
+  flex-direction: row;
+}
+.mg8 {
+  margin: 8px;
+}
+.mgl10 {
+  margin-left: 10px;
+}
+.mgr {
+  margin-right: 100px;
+}
+
+.mgt8 {
+  margin-top: 8px;
+}
+.mgt20 {
+  margin-top: 20px;
+}
+.mgt18 {
+  margin-top: 18px;
+}
+.mgt100 {
+  margin-top: 100px;
+}
+.mgt50 {
+  margin-top: 50px;
+}
+.mgt750 {
+  margin-top: 750px;
+}
+.mgr80 {
+  margin-right: 80px;
+}
+.quyu:hover {
+  transform: scale(1.05);
+}
+.quyu1:hover {
+  transform: scale(1.01);
+}
+.quyu2:hover {
+  transform: scale(1.2);
+}
+.quyu3:hover {
+  transform: scale(1.03);
+}
+.quyu4:hover {
+  transform: scale(1.01);
+}
+.quyu5:hover {
+  transform: scale(1.06);
+}
+.dise:hover {
+  background-color: #bebebe;
+}
+
+.fangkuang {
+  justify-content: space-between;
+  height: 400px;
+  width: 600px;
+  margin-top: 15px;
+  margin-bottom: 70px;
+  border-radius: 25px;
+  opacity: 0.6;
+}
+.fangkuang2 {
+  justify-content: space-between;
+  height: 1000px;
+  width: 600px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  border-radius: 25px;
+  opacity: 0.9;
+}
+.fangkaung3 {
+  height: 718.75px;
+  border-radius: 25px;
+  width: 240px;
+  opacity: 0.8;
+}
+
+/* 头部栏 */
+.tbl {
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2);
+}
+/*简介页的方框里的盒子*/
+.nhz {
+  border: 1px solid #ffffff;
+  background: #ffffff;
+  width: 250px;
+  margin: 1px 170px 10px 165px;
+}
+.nhz1 {
+  background: white;
+  width: 820px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 25px;
+  opacity: 0.6;
+}
+
+.zt1 {
+  font-family: "SunYat-senHsingshu";
+  font-size: 25px;
+}
+.zt2 {
+  font-family: "li xuke";
+  font-size: 25px;
+}
+.nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav li {
+  display: inline-block;
+  cursor: pointer;
+}
+.nav li.active {
+  background-color: #868686;
+  color: #fff;
+}
+.content {
+  display: none;
+}
+.content.show {
+  display: block;
+}
+.zhuti {
+  margin: 30px auto 40px auto;
+  width: 1224px;
+  height: 480px;
+  justify-content: center;
+  align-items: center;
+}
+.post-item {
+  width: 100%;
+  background-color: #181c27;
+}
+.post-item p {
+  margin-top: 100px;
+  margin-left: 100px;
+  font-size: 30px;
+}
+.post-item section .else1 p {
+  margin-top: 100px;
+  margin-right: 100px;
+  font-size: 30px;
+}
+div section p a {
+  text-decoration: none;
+  color: #666;
+}
+.post-item__img {
+  display: inline-block;
+  z-index: 1;
+  /* width: 600px;
+  height: 340px; */
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.post-item .else {
+  z-index: 0;
+  margin-left: -40px;
+  margin-top: 180px;
+  /* position: absolute; */
+  text-align: left;
+  top: 20px;
+  height: 360px;
+  width: 490px;
+  border: 1px solid #666;
+  border-radius: 5px;
+  /* overflow-y: hidden; */
+}
+.post-item .else1 {
+  z-index: 0;
+  margin-right: -40px;
+  margin-top: 180px;
+  /* position: absolute; */
+  text-align: right;
+  top: 20px;
+  height: 360px;
+  width: 490px;
+  border: 1px solid #666;
+  border-radius: 5px;
+  /* overflow-y: hidden; */
+}
+div .last {
+  margin-bottom: 100px;
+}
+@media (max-width: 600px) {
+  .cebian {
+    display: none;
+  }
+  .neirong {
+    flex-direction: column;
+  }
+  .xiangmuqu {
+    flex-direction: column;
+  }
+  .youqu {
+    margin-left: 8px;
+  }
+  .xiangmu {
+    margin: 0 0 8px;
+    flex: auto;
+  }
+}
+@font-face {
+  font-family: "SunYat-senHsingshu";
+  src: url(font/中山行书百年纪念版.ttf) format("truetype"),
+    url(font/中山行书百年纪念版.ttf) format("truetype"),
+    url(font/中山行书百年纪念版.ttf) format("woff"),
+    url(font/中山行书百年纪念版.ttf) format("opentype"),
+    url(font/中山行书百年纪念版.ttf) format("truetype-aat"),
+    url(font/中山行书百年纪念版.ttf) format("embedded-opentype"),
+    url(font/中山行书百年纪念版.ttf) format("avg");
+}
+@font-face {
+  font-family: "li xuke";
+  src: url(font/刘梦吟书法行楷.ttf) format("truetype"),
+    url(font/中山行书百年纪念版.ttf) format("truetype"),
+    url(font/中山行书百年纪念版.ttf) format("woff"),
+    url(font/中山行书百年纪念版.ttf) format("opentype"),
+    url(font/中山行书百年纪念版.ttf) format("truetype-aat"),
+    url(font/中山行书百年纪念版.ttf) format("embedded-opentype"),
+    url(font/中山行书百年纪念版.ttf) format("avg");
+}
